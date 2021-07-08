@@ -1,2 +1,3 @@
-# cursos-lucas-pinto.github.io
-Proyecto final. Curso: Introduccion al Desarrollo Web - Le Wagon
+# Trabajo Práctico - Módulo 2
+
+Curso: Desarrollo Web Front End - Fundación Telefónica.
